@@ -1,6 +1,8 @@
 
 **🏆 이 논문은 한국멀티미디어학회에서 우수논문상을 수상했습니다.**
 
+📅 Project Duration: Sep 2025 – Nov 2025
+
 <br>
 
 # 📰 Neutral News Rewriting Pipeline  
