@@ -1,7 +1,7 @@
 
 **🏆 이 논문은 한국멀티미디어학회에서 우수논문상을 수상했습니다.**
 
-📅 Project Duration: Sep 2025 – Nov 2025
+📅 진행 기간: 2025.09 ~ 2025.11
 
 # 📰 Neutral News Rewriting Pipeline  
 **Integrated Truthfulness, Sentiment, and Political Bias Analysis for Neutral Headline Generation**
