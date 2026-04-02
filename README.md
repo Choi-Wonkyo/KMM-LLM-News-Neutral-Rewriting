@@ -3,8 +3,6 @@
 
 📅 Project Duration: Sep 2025 – Nov 2025
 
-<br>
-
 # 📰 Neutral News Rewriting Pipeline  
 **Integrated Truthfulness, Sentiment, and Political Bias Analysis for Neutral Headline Generation**
 
